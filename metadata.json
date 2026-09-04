@@ -1,0 +1,6 @@
+{
+  "name": "AIPPM War Room",
+  "description": "Advanced parliamentary speech-generation, constitutional research, and strategic rebuttal assistant for AIPPM simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
